@@ -6,9 +6,9 @@ def rangeVector (vector):
     res = [vector[0], vector[-1]]
     return res
 
-#  21 - función que calcule devuelva el mínimo del vector obtenido en genrnd..
-def minVector (vector): 
-    return rangeVector(vector)[0]
+#  21 - función que calcule devuelva el maximo del vector obtenido en genrnd.
+def maxVector (vector): 
+    return rangeVector(vector)[1]
 
 #### TESTING ####
 

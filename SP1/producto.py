@@ -1,6 +1,6 @@
 # función producto, retorna la multiplicacion de 2 parámetros.
-n1=3
-n2=5
+n1=int(imput("ingrese un numero: "))
+n2=int(imput("ingrese un numero: "))
 def multiplicacion (n1, n2): 
     return n1 * n2
 

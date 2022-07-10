@@ -1,2 +1,2 @@
 def bienvenida():
-    print("Bienvenidos al grupo A7G3.")
+    print("Bienvenidos al grupo A7G3")

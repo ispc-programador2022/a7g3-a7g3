@@ -1,5 +1,3 @@
-lista = [1,2,3,4,5,6]
-
 def elementos(list):
     contador = 0
     for element in list:

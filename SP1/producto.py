@@ -1,4 +1,4 @@
-# función producto, retorna la multiplicacion de 2 parámetros.
+# función producto, retorna la multiplicacion de 2 parámetros
 
 def multiplicacion (n1, n2): 
     return n1 * n2
